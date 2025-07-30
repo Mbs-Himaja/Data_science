@@ -1,3 +1,3 @@
-Welcome to git hub
-This is my first repository in git hub 
+Welcome to git hub <br>
+This is my first repository in git hub <br>
 Author: @Himaja
